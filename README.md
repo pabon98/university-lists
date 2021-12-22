@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Top University Lists
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with (https://university-lists.netlify.app/).
 
 ## Available Scripts
 
