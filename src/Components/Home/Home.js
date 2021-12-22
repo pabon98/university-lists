@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import Footer from '../Footer/Footer';
 import University from '../University/University';
 import './Home.css'
 
@@ -29,6 +30,7 @@ const Home = () => {
                    }) 
                }
              </div>
+             <Footer></Footer>
            </div>
 
         

@@ -7,6 +7,7 @@ import {
 import Home from './Components/Home/Home';
 import University from './Components/University/University';
 import UniversityDetails from './Components/UniversityDetails/UniversityDetails';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="/details/:detailsId" element={<UniversityDetails/>} >
           </Route>
         </Routes>
+        
       </Router>
     </div>
   );
